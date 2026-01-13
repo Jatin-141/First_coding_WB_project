@@ -19,3 +19,20 @@ It represents my **first project in my coding journey**, created to understand w
 - Font Awesome icons
 
 ## Project Structure
+amazon-clone-html-css
+amazon-clone-html-css
+├── index.html
+├── css/style.css
+├── images/
+└── README.md
+
+
+## Learning Outcome
+- Practical understanding of HTML structure
+- Hands-on experience with CSS Flexbox
+- Improved layout and styling skills
+
+## Disclaimer
+This project is created **only for educational purposes**.  
+All design credits belong to **Amazon**.
+
